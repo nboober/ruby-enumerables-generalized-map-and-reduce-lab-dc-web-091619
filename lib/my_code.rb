@@ -8,7 +8,7 @@ end
 
 
 
-def map(array)
+def mymap(array)
   
   array.map{|i| i}
   
