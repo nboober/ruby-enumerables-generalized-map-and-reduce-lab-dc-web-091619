@@ -8,9 +8,9 @@ end
 
 
 
-def map_to_no_change(source_array)
+def map(array)
   
-  source_array.map{|i| i}
+  array.map{|i| i}
   
 end
 
