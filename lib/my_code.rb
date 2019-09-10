@@ -31,6 +31,7 @@ def reduce(array, starting_value = nil)
   while i < array.length
   
     sum = yield(num1, array[i])
+    i++
   
   end
   
