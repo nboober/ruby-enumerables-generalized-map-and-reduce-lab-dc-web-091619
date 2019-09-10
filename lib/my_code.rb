@@ -1,8 +1,7 @@
-def map_to_negativize(source_array)  
-  
-  source_array.map{|n| n * -1}
 
-end
+  map{|n| n * -1}
+
+
 
 
 def map_to_no_change(source_array)
