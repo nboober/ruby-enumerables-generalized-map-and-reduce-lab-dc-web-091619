@@ -1,6 +1,6 @@
-def map(source_array)
+def map(array)
 
-  source_array.map{|i| i * -1}
+  array.map{|i| i * -1}
 
 end
 
